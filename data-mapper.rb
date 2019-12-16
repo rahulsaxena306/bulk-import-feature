@@ -15,8 +15,9 @@ jsonArray = [
 },
 {
   "Column" => "Col3",
-  "data-type" => "String",
-  "data-field" => "patient-name"
+  "data-type" => "boolean",
+  "xForm" => "0/1"
+  "data-field" => "patient-available"
 } ]
 
 
